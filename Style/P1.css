@@ -1,0 +1,44 @@
+body{
+    background-image: url("/images/download.jpg")
+}
+h3,h6{
+    color: white;
+}
+#ss{
+    background-color: rgb(43, 64, 226);
+    padding:0 0 10;
+    height:20px;
+    width: 400px;
+}
+#rr{
+    background-color: olive;
+    margin-left: 200px;
+    margin-bottom: -1000px;
+}
+#ii{
+    background-color: olive;
+    margin-left: 10px;
+    margin-top:10px ;
+}
+.qqq{
+    width: 400px;
+}
+#mmm{
+    width: 400px;
+}
+#sa{
+    background-color:rgba(27, 27, 39,0.5)
+    
+
+}
+#ggg{
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+}
+body{
+    margin-left: 100px;
+    height: 500px;
+    width:500px;
+}
+

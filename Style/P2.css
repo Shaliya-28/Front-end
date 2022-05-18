@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(1, 1, 25);
+    color: white;
+    height: 500px;
+    width: 500px;
+}
+form{
+    background-color: rgb(14, 14, 37);
+}
+#but{
+    margin-left: 10px;
+    background-color: rgb(15, 15, 61);
+
+}
+#set{
+    margin-left: 50px;
+    background-color: rgb(16, 16, 227);
+}
+#ss{
+    background-color: rgb(43, 64, 226);
+    padding:0 0 10;
+    height:20px;
+    width: 170px;
+}
+span{
+    color: rgb(9, 9, 208);
+}
+table{
+    height: 400px;
+    width: 400px;
+}
+fieldset{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(19, 18, 1);
+    border: hidden;
+    margin-left: 100px;
+    padding-left:0.40em;
+    padding-top: -40px;
+    padding-left: 40px;
+    display: block;
+    opacity: 50px;
+    box-sizing: border-box;
+
+}

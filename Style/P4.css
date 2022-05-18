@@ -1,0 +1,55 @@
+#nav{
+    background-color: rgb(10, 10, 123);
+    color: white;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
+#div{
+    color: white;
+    background-color: rgb(10, 10, 243);
+    text-align: left;
+    height: 100px;
+    padding-left: 30px;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ss{
+    border:none;
+}
+select{
+    border:none;
+    background-color: rgb(10, 10, 123);
+    color: white;
+}
+span{
+    color:red;
+}
+#aa{
+    color:blue
+
+}
+.bul{
+    font-size: 15px;
+}
+aside{
+    float: right;
+    padding-right: 50px;
+    font-size: 10px;
+}
+h6{
+    font-size: 10px;
+    font-weight: 0px;
+}
+p{
+    font-size: 10px;
+}
+img{
+    padding-right: 50px;
+    height: 50px;
+    width:50px;
+    float: right;
+}

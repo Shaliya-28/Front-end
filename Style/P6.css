@@ -1,0 +1,44 @@
+h4{
+    background-color: rgb(10, 21, 12);
+    color: white;
+}
+div{
+    height: 300px;
+    width: 300px;
+
+}
+body{
+    background-image:url("/images/th.jpg");
+
+}
+main{
+    height: 300px;
+    width: 300px;
+    border: none;
+    background-color: rgb(14, 44, 34);
+    margin-left: 200px;
+    
+}
+.qqq{
+    width:290px;
+}
+select{
+
+    width: 245px;
+}
+p{
+margin-left: 50px;
+color: white;
+}
+#but{
+    cursor: pointer;
+    margin-left:10px ;
+    background-color: rgb(167, 193, 193);
+    
+}
+#cut{
+    cursor: pointer;
+    margin-top: -100px;
+margin-left: 150px;
+background-color: rgb(167, 193, 193);
+}
